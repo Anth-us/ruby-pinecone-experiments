@@ -1,0 +1,1 @@
+Some simple experiments with using OpenAI embeddings and Pinecone to implement long-term memory for AI agents.
